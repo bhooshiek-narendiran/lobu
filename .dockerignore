@@ -1,0 +1,13 @@
+.git
+.github
+**/node_modules
+**/dist
+**/coverage
+**/.turbo
+workspaces
+integration-tests
+*.md
+.env
+.env.*
+!.env.example
+packages/owletto-web/node_modules
